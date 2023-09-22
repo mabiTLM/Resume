@@ -1,24 +1,29 @@
-*{
-    margin: auto;
-    padding: auto;
+* {
+  margin: 5px;
+  padding: 0px;
 }
 
-header{
-    text-align: center;
+header {
+  text-align: center;
 }
 
-li{
-    margin: 0px 0px 0px 20px;
+li {
+  margin: 0px 0px 0px 20px;
 }
 
-hr{
-    margin: 20px 0px;
+hr {
+  margin: 20px 0px;
 }
 
-img{
-    width: 25px;
+img {
+  width: 25px;
+  margin: 0px;
+}
+a {
+  margin: 0px;
 }
 
-p{
-    border: 1px solid black;
+p {
+  border: 1px solid black;
+  width: 90%px;
 }
